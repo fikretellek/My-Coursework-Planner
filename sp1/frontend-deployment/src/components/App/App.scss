@@ -1,0 +1,13 @@
+.app {
+}
+.app {
+  display: grid;
+  max-width: var(--space--container);
+  margin: auto;
+  margin-bottom: 7rem;
+  padding: var(--space--gap);
+}
+
+body {
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
